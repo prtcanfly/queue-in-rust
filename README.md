@@ -1,1 +1,1 @@
-# queue-in-rust
+# Queue Example Written in Rust
